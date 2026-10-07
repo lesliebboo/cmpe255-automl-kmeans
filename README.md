@@ -16,6 +16,17 @@ This repository contains 6 executed Jupyter notebooks covering K-Means clusterin
 | 5 | `part5_pycaret.ipynb` | PyCaret: Capabilities Tour | 210 | ✅ 0 errors |
 | 6 | `part6_pycaret_mlops.ipynb` | PyCaret: MLOps End-to-End | 305 | ✅ 304/305 cells |
 
+## Video Demos
+
+| # | Video |
+|---|-------|
+| 1 | [Part 1 - K-Means Clustering: From Zero to Hero](https://youtu.be/ZJzgJHp79bo) |
+| 2 | [Part 2 - AutoGluon: Capabilities Tour](https://youtu.be/fw1JDDNmFYE) |
+| 3 | [Part 3 - AutoGluon: End-to-End](https://youtu.be/YxO1tUsX_5M) |
+| 4 | [Part 4 - NVIDIA RAPIDS: GPU Data Science](https://youtu.be/56O0gXFMvHI) |
+| 5 | [Part 5 - PyCaret: Capabilities Tour](https://youtu.be/28upR66Zu_Y) |
+| 6 | [Part 6 - PyCaret: MLOps End-to-End](https://youtu.be/adJb27C725o) |
+
 ## Environment Notes
 
 - **Part 1** (KMeans): Python 3.12, scikit-learn, pandas, matplotlib, seaborn
